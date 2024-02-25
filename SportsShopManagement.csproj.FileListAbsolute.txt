@@ -1,0 +1,29 @@
+E:\C# pro\SportsShopManagement\bin\Debug\SportsShopManagement.exe.config
+E:\C# pro\SportsShopManagement\bin\Debug\SportsShopManagement.exe
+E:\C# pro\SportsShopManagement\bin\Debug\SportsShopManagement.pdb
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.AssemblyReference.cache
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.SuggestedBindingRedirects.cache
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.Form1.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.Properties.Resources.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.GenerateResource.cache
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.CoreCompileInputs.cache
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.exe
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.pdb
+E:\C# pro\SportsShopManagement\bin\Debug\Guna.UI2.dll
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.CopyComplete
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\bin\Debug\SportsShopManagement.exe.config
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\bin\Debug\SportsShopManagement.exe
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\bin\Debug\SportsShopManagement.pdb
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.Form1.resources
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.Properties.Resources.resources
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.CopyComplete
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.exe
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.pdb
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.Form2.resources
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\ASUS\Downloads\SportsShopManagement\SportsShopManagement\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
