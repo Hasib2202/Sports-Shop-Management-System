@@ -1,0 +1,33 @@
+E:\C# pro\SportsShopManagement\bin\Debug\SportsShopManagement.exe.config
+E:\C# pro\SportsShopManagement\bin\Debug\SportsShopManagement.exe
+E:\C# pro\SportsShopManagement\bin\Debug\SportsShopManagement.pdb
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.AssemblyReference.cache
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.SuggestedBindingRedirects.cache
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.Properties.Resources.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.GenerateResource.cache
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.CoreCompileInputs.cache
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.exe
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.pdb
+E:\C# pro\SportsShopManagement\bin\Debug\Guna.UI2.dll
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.CopyComplete
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.AdminHome.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.Login.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.SellerHome.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.MessageUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.ProductUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.SalesAdminUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.UsersUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.SellerMessageUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.UserlistUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.AddNewUserUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.EditUserUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.AddProductUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.EditProductUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.RemoveUserUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.RemoveProductUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.OrderUC.resources
+E:\C# pro\SportsShopManagement\obj\Debug\SportsShopManagement.CashMemo.resources
+C:\Users\Alif Hossain Talha\Desktop\6th Semester\OOP2\Project\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.AssemblyReference.cache
+C:\Users\Alif Hossain Talha\Desktop\6th Semester\OOP2\Project\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alif Hossain Talha\Desktop\6th Semester\OOP2\Project\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.exe
+C:\Users\Alif Hossain Talha\Desktop\6th Semester\OOP2\Project\SportsShopManagement\SportsShopManagement\obj\Debug\SportsShopManagement.pdb
