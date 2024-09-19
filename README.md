@@ -88,6 +88,16 @@ To run this project, you need:
    <connectionStrings>
      <add name="DBConnection" connectionString="Data Source=YourServerName;Initial Catalog=YourDatabaseName;Integrated Security=True;" providerName="System.Data.SqlClient" />
    </connectionStrings>
+   // Inside the code make this data-connection to set up in your code enviroment
+
+    public DataAccess()
+            {
+                this.Sqlcon = new SqlConnection(@"Data Source=DESKTOP-453B3KI\SQLEXPRESS;Initial Catalog=SportsShopManagementSystem;Integrated Security=True");
+
+                //this.Sqlcon = new SqlConnection(@"Data Source=DESKTOP-VCDR0MA\SQLEXPRESS;Initial Catalog=CareForPaws;Integrated Security=True");
+                Sqlcon.Open();
+
+            }
    ```
 
 5. **Run the project**:
